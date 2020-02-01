@@ -1,0 +1,37 @@
+	@import url(https://fonts.googleapis.com/css?family=Merienda|Uncial+Antiqua&display=swap);
+
+	@import url("components/container.css");
+	@import url("components/avatar.css");
+	@import url("components/button.css");
+	@import url("components/banner.css");
+
+
+
+  body {
+  	font-family:'Merienda', cursive;
+  	font-size: 20px; 
+  	background-color: #14453D;
+  	color: #F1C550;
+  }
+
+h1 {
+	font-family:'Uncial Antiqua', cursive;
+	font-size: 60px;
+	font-weight: bold;
+}
+
+
+h2, h3 {
+	font-family:'Uncial Antiqua', cursive;
+	font-size: 40px;
+	font-weight: bold;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+	color: #1f6650;
+}

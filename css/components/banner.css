@@ -1,0 +1,18 @@
+ .banner {
+ 	background-image: url(../../images/lotr.jpeg);
+ 	color: #ffc60b;
+ 	padding: 150px 0px;
+ 	background-size: cover;
+ 	background-position: center;
+ 	text-align: center;
+ }
+
+ .banner h1{
+ 	font-weight: bold;
+ 	font-size: 60px;
+ }
+
+ .banner h2 {
+ 	font-weight: bold;
+ 	font-size: 50px;
+ }
